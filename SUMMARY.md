@@ -22,6 +22,6 @@
 * [📞 WhatsApp Platform](community-guides/whatsapp-platform.md)
 * [⭐ Discord](community-guides/discord.md)
 
-## Fundamentals
+## FAQ
 
-* [❓ FAQ](fundamentals/faq.md)
+* [❓ Frequently Asked Questions](faq/frequently-asked-questions.md)

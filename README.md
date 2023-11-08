@@ -39,14 +39,10 @@ Here are the channels and platforms we use for communications during this progra
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/faq.md" %}
-[faq.md](fundamentals/faq.md)
+{% content-ref url="product-guides/joining-the-program.md" %}
+[joining-the-program.md](product-guides/joining-the-program.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="faq/frequently-asked-questions.md" %}
+[frequently-asked-questions.md](faq/frequently-asked-questions.md)
 {% endcontent-ref %}
