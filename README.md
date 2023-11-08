@@ -4,7 +4,7 @@ description: >-
   elevate your skills without draining your pockets.
 ---
 
-# 👋 Welcome to Top Universe 300DevDays
+# 👋 Welcome to 300DevDays
 
 {% hint style="info" %}
 **What You Will Learn:**10 months of practical experience with industry professionals.\
@@ -13,17 +13,17 @@ Learn HTML, CSS, Javascript, Vue, React, Nodejs, Express.js, Mongodb & PostgresS
 
 ## Overview
 
-Here are the channels and platforms we use during this program:
+Here are the channels and platforms we use for communications during this program:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> WhatsApp Platform and Discord Server.
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> WhatsApp groups in Top Universe: 300DevDays for students' chats, Top Universe Ops for operations, 3dv-Activity for social events, 3dv-Tutor for instructors. Only authorized members allowed; clear guidelines and moderation ensure compliance.
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> — [Read More](community-guides/whatsapp-platform.md)&#x20;
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+> Discord channels usage: 300DevDays for socializing, Materials for admin updates, Talk for discussions and fun, Q\&A for questions. Clear roles and purposes for effective communication.
 >
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> — [Read More](community-guides/discord.md)
 
 ## Quick links
 
@@ -39,14 +39,14 @@ Here are the channels and platforms we use during this program:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="fundamentals/faq.md" %}
+[faq.md](fundamentals/faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

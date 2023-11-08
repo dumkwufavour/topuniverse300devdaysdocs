@@ -1,11 +1,12 @@
 # 💡 What we do
 
 {% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+**Top tip:** Our professional and amazing service of quality tech education has helped raised individuals of both non tech and tech industries into problem solvers and tech gurus in the tech industry.
 {% endhint %}
 
-## Video overview
+## 300DevDays
 
-Got 2 minutes? Check out a video overview of our product:
+300devdays is an immersive training program designed to equip African youths with the comprehensive skills and knowledge needed to excel as full stack engineers. By offering a dynamic curriculum and hands-on projects, we aim to bridge the gap between frontend and backend development, creating well-rounded tech professionals capable of building end-to-end web applications.
 
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+
+

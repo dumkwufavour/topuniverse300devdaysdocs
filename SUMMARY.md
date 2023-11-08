@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Top Universe 300DevDays](README.md)
+* [👋 Welcome to 300DevDays](README.md)
 
 ## Overview
 
@@ -9,16 +9,14 @@
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
+* [📪 Joining the program](product-guides/joining-the-program.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
 ## Fundamentals
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [❓ FAQ](fundamentals/faq.md)
 
-## Use Cases
+## 🛡 Community Guides
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [📞 WhatsApp Platform](community-guides/whatsapp-platform.md)
+* [⭐ Discord](community-guides/discord.md)
