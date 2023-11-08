@@ -28,7 +28,7 @@ In the "materials" channel a luma link is available that contains classes and th
 
 <summary>Q: Where will the classes be held?</summary>
 
-Classes will be held on our YouTube Channel, LinkedIn and Twitch, at the same time and same day, you're to join or watch from just one platform at you're comfortable with and not expected to join all at once.
+Classes will be held on our [YouTube ](https://www.youtube.com/@topuniverse\_org)Channel, [LinkedIn ](https://www.linkedin.com/company/topuniverseafrica)and [Twitch](https://twitch.tv/topuniverse\_org), at the same time and same day, you're to join or watch from just one platform that you're comfortable with and not expected to join all at once.
 
 </details>
 
